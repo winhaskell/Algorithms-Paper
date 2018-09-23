@@ -1,4 +1,4 @@
-import java.io.*;
+import java.io.*;     -----------------------------Grey_wolf_optimizer.java
 import java.util.*;
 
 abstract class f_xj
@@ -249,7 +249,7 @@ void toStringnew()
 
 
 ---------------------------------------------------------------------------------------------------------------------------------
-
+---------------------Grey_wolf_optimizer_test.java
 class f1 extends f_xj//Gold stein f(x)=3.0 @x=(0,-1) -2<x[i]<2 i=1,2
 {
 double func(double x[])
